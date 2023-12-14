@@ -23,5 +23,12 @@ To help with the creation of the tables in SQL, an Entity Relationship Diagram o
 ## Data Engineering 
 
 Here were the steps taken to set up the SQL Database: 
-- Create tables corresponding to each CSV file (import primary key tables first)
+- Create table shcema corresponding to each CSV file (import primary key tables first), including data type, primary, and foreign keys.
+- CSV files were imported to their respective tables in the order they were created.
+
+## Data Analysis 
+
+Queries were conducted using joins to answer these questions: 
+
 - 
+
